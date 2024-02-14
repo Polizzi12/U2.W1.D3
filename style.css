@@ -1,0 +1,26 @@
+.body{
+    padding-inline: 570px;
+    margin-inline: auto;
+}
+.tutto {
+    width: 400px;
+  border-radius: 120px;
+  background-color: #fbf7e3;
+  overflow: hidden;
+}
+.vasetto {
+  width:100%;
+}
+.bottone {
+  border-radius: 30px;
+  border: 0;
+  background-color: #f3df85;
+  padding: 10px;
+  padding-inline: 60px;
+  font-size: 20px;
+  color: #612406;
+}
+.txt{
+    color:#612406;
+
+}
